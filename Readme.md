@@ -121,6 +121,7 @@ yields:
     -s, --select <fn>   use the given <fn> for filtering
     -m, --map <fn>      use the given <fn> for mapping
     -c, --color         color the json output
+    -p, --parseable     make the json output machine-parseable
   
   
 ```
